@@ -1,7 +1,7 @@
 # balta.io-Curso
 Acompanhando a carreira Back end .NET da plataforma Balta.io 
 
-Curso completo e direcionado para o entendimento a fundo para ter a base completa e sólida na programação!Aprendi neste curso aprendi:
+Curso completo e direcionado para o entendimento a fundo para ter a base completa e sólida na programação!Aprendi neste curso:
 
 Todos os conceitos fundamentais da linguagem C#.
 
